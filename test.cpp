@@ -1,1 +1,1 @@
-#ind
+#include<iostream>
